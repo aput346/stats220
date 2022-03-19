@@ -10,8 +10,8 @@ My meme is just a simple joke inspired from the game of Valorant and I made it u
 
 ## Meme explanation
 My current favourite game is Valorant and so I used it as inspiration for my meme. The pictures I used is one of the most popular characters in the game, Jett.
-The first row depicts a sad Jett, corresponding to the text which just simply means that your gaming partner/duo is at the bottom of the leaderboard.
-The second row depicts a happy Jett, corresponding to the text which simply means that your gaming partner/duo is instead at the very top of the leaderboard.
+1. The first row depicts a sad Jett, corresponding to the text which just simply means that your gaming partner/duo is at the bottom of the leaderboard.
+2. The second row depicts a happy Jett, corresponding to the text which simply means that your gaming partner/duo is instead at the very top of the leaderboard.
 
 ## R code
 Below is the R code I used to create this meme.
