@@ -2,7 +2,7 @@
 
 **Ilham Putra aput346 Github repo.**
 
-The purpose of this repo is to display my meme and gif for assignment 1 of STATS220.
+The purpose of this repo is to display the skills and knowledge I have learnt from the STATS220 course so far.
 
 ## Links
 
