@@ -16,7 +16,7 @@ The second row depicts a happy Jett, corresponding to the text which simply mean
 ## R code
 Below is the R code I used to create this meme.
 
-~~r
+~~~r
 
 happy_jett <- image_read("https://i.pinimg.com/originals/27/73/ee/2773eec3599f861615a47688a9762ee7.png") %>%
   image_scale(500)
