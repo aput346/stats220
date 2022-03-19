@@ -1,7 +1,7 @@
 # Welcome to my Github Website :)
 
 ## About me
-I am a second year Data Science student and I am Indonesian.
+I am a second year Data Science student. I take STATS220 as it is a requirement for my degree :D
 
 ## My Meme
 My meme is just a simple joke inspired from the game of Valorant and I made it using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
