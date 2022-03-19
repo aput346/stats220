@@ -12,4 +12,4 @@ These are some links to my other websites
 
 Thanks for visiting my site! :D
 
-https://i.pinimg.com/236x/27/73/ee/2773eec3599f861615a47688a9762ee7.jpg
+![](https://i.pinimg.com/236x/27/73/ee/2773eec3599f861615a47688a9762ee7.jpg)
