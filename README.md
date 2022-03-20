@@ -2,7 +2,7 @@
 
 **Ilham Putra aput346 Github repo.**
 
-The purpose of this repo is to display the skills and knowledge I have learnt from the STATS220 course so far.
+The purpose of this repo is to display the skills and knowledge I have learnt about modern data technologies such as creating an HTML file and writing in a markdown file from the STATS220 course so far.
 
 ## Links
 
