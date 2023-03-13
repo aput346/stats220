@@ -1,12 +1,12 @@
 # Welcome to my Github Website :)
 
 ## About me
-I am a thhird year Data Science student. I take STATS220 as it is a requirement for my degree :D
+I am a third year Data Science student. I take STATS220 as it is a requirement for my degree :D
 
 ## My Meme
-My meme is just a simple joke inspired from the game of Valorant and I made it using the R package [{magick}](![my_meme](https://user-images.githubusercontent.com/100745310/224592821-1113f5e9-04b7-4073-aeab-a9cfc961e319.png)).
+My meme is just a simple joke inspired from the game of Valorant and I made it using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
-![my_meme](https://user-images.githubusercontent.com/100745310/158976770-1784a090-6f95-40dd-a4e6-06c2ae3a470d.png)
+![my_meme](https://user-images.githubusercontent.com/100745310/224592950-15070ac9-3cee-4ed5-95e1-77a2f08bff5b.png)
 
 ## Meme explanation
 My current favourite game is Valorant and so I used it as inspiration for my meme. The pictures I used is one of the most popular characters in the game, Jett.
