@@ -7,8 +7,8 @@ The purpose of this repo is to display the skills and knowledge I have learnt ab
 ## Links
 
 These are some links to my other websites
-- *[About me](https://github.com/aput346/stats220/blob/main/index.md)*
 - *[My Github website](https://github.com/aput346/stats220)*
+- *[My index.html](https://github.com/aput346/stats220/blob/main/.nojekyll)*
 
 Thanks for visiting my site! :D
 
